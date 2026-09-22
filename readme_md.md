@@ -1,4 +1,4 @@
-# Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
+# Tarea: (compañeros) Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 **Autor:** David Buzón
 
